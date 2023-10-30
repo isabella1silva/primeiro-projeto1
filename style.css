@@ -1,18 +1,17 @@
 #banner {
 	width:50%;
 	height:50%;
-	text-align: center;
+	
 }
 
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
-	height:50%;
-	text-align: center;
+	
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 50px;
 }
 
 .titulo-centralizado {
