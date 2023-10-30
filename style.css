@@ -3,6 +3,11 @@
 	height:50%;
 	
 }
+.container {
+  text-align: center;
+  
+  border: 1px solid;
+}
 
 .principal{
 	background: #CCCCCC;
